@@ -20,7 +20,7 @@ start mysql-async
 
 #VRP SCRIPTS
 
-#start vrp_chairs
+start vrp_chairs
 start vrp_job_display
 start vrp_paycheck
 start vrp_basic_menu
@@ -47,7 +47,6 @@ start vrp_hotkeys
 start vrp_drugstonpc
 start vrp_license
 ```
-![img](https://image.ibb.co/gtSA67/server_data.jpg)
 
 Execute o run.cmd localizado dentro da pasta "server-data":
 
